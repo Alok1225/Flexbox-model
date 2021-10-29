@@ -1,0 +1,52 @@
+.first{
+   display: flex;
+   flex-wrap: wrap;
+}  
+h3{
+    text-align: center;
+}  
+.demo{
+    height: 10rem;
+    width: 93rem;
+    background-color: chartreuse;
+    line-height: 10rem;
+    text-align: center;
+}
+.jump2{
+    height: 30rem;
+    width: 33rem;
+    background-color: crimson;
+    line-height: 30rem;
+}
+.jump3{
+    height: 30rem;
+    width: 60rem;
+    background-color: darkmagenta;
+    line-height: 30rem;
+    
+}
+.jump4{
+    height: 10rem;
+    width: 93rem;
+    background-color: darkred;
+    text-align: center;
+    line-height: 10rem;
+}
+.memo{
+    height: 8rem;
+    width: 15rem;
+    background-color: palevioletred;
+    line-height: 6rem;
+}
+.memo1{
+    height: 8rem;
+    width: 35rem;
+    background-color: black;
+    color: white;
+    line-height: 4rem;
+}
+.memo2{
+    height: 8rem;
+    width: 43rem;
+    background-color: brown;
+}
